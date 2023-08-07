@@ -1,2 +1,1 @@
-![image](https://github.com/DemisoDaba/AirBnB_clone/assets/125874545/59d6b7e3-fa4e-4f72-b7e1-338fc41b4965)
-
+![image](https://github.com/DemisoDaba/AirBnB_clone/assets/125874545/db8a8c41-f326-49f6-a93b-d8467130ef84)
